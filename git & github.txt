@@ -1,0 +1,9 @@
+git init
+git add Readme.md
+git status
+git clear
+git commit -m ""
+git branch -M "main"
+git push origin main
+git remote add origin https://github.com/Emerson2k22/GabiLanches-Redes-Sociais.git
+para primeira vez (git push -u origin main)
